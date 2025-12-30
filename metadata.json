@@ -1,0 +1,7 @@
+{
+  "name": "RadFlow AI - Radiology Workflow Manager",
+  "description": "A comprehensive clinical workflow dashboard featuring AI-powered report analysis, smart patient triage, and real-time technologist-radiologist collaboration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
